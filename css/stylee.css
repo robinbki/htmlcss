@@ -1,0 +1,20 @@
+#bg{
+    
+    background-image: url(../img/pizza.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+   
+}
+.rob{
+    display: block;
+}
+
+#border{
+    /* border-style:solid;
+    border-width: 2px 5px;
+    border-color: chartreuse gray red blue; */
+
+    border: 2px solid green;
+    border-radius: 10px;
+}
